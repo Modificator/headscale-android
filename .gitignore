@@ -9,3 +9,14 @@ android/libs
 
 # Output files from the Makefile:
 tailscale-debug.apk
+.idea
+local.properties
+*.apk
+.DS_Store
+*__gen.go
+*__ignore.go
+*.swp
+*.swo
+~i_*
+ig_*
+zzzig_*
