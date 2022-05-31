@@ -1,4 +1,4 @@
-package com.github.modificator.headscale.ui.theme
+package com.github.modificator.headscale.theme
 
 import android.app.Activity
 import android.os.Build
@@ -42,7 +42,7 @@ private val LightColorScheme = lightColorScheme(
 fun HeadScaleAndroidTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
-    dynamicColor: Boolean = false,
+    dynamicColor: Boolean = true,
     content: @Composable () -> Unit
 ) {
     val colorScheme = when {

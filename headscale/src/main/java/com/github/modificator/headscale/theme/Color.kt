@@ -1,4 +1,4 @@
-package com.github.modificator.headscale.ui.theme
+package com.github.modificator.headscale.theme
 
 import androidx.compose.ui.graphics.Color
 

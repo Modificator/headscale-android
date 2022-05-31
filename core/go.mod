@@ -20,10 +20,8 @@ require (
 	github.com/akavel/rsrc v0.10.1 // indirect
 	github.com/akutz/memconn v0.1.0 // indirect
 	github.com/alexbrainman/sspi v0.0.0-20210105120005-909beea2cc74 // indirect
-	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
 	github.com/benoitkugler/textlayout v0.0.10 // indirect
 	github.com/coreos/go-iptables v0.6.0 // indirect
-	github.com/creack/pty v1.1.17 // indirect
 	github.com/gioui/uax v0.2.1-0.20220325163150-e3d987515a12 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-text/typesetting v0.0.0-20220112121102-58fe93c84506 // indirect
@@ -47,7 +45,6 @@ require (
 	github.com/tailscale/goupnp v1.0.1-0.20210804011211-c64d0f06ea05 // indirect
 	github.com/tailscale/netlink v1.1.1-0.20211101221916-cabfb018fe85 // indirect
 	github.com/tcnksm/go-httpstat v0.2.0 // indirect
-	github.com/u-root/u-root v0.8.0 // indirect
 	github.com/u-root/uio v0.0.0-20210528151154-e40b768296a7 // indirect
 	github.com/vishvananda/netlink v1.1.1-0.20211118161826-650dca95af54 // indirect
 	github.com/vishvananda/netns v0.0.0-20211101163701-50045581ed74 // indirect
